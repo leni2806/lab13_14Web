@@ -104,6 +104,24 @@ if (!$koneksi) {
 <img src="img/cari.png" width="450">
 
 ```
+
+## Screenshot Implementasi
+1. halaman utama dengan pagination
+<img src="img/utama.png" width="450">
+
+2. form tambah barang
+<img src="img/tambah.png" width="450">
+
+3. halaman edit barang
+<img src="img/edit.png" width="450">
+
+4. tampilan pagination
+<img src="img/pagination.png" width="450">
+
+5. tampilan pencarian data
+<img src="img/cari.png" width="450">
+
+
 ## 📥 Cara Instalasi
 
 1. **Persyaratan Sistem**
@@ -119,3 +137,4 @@ if (!$koneksi) {
    - Copy folder project ke dalam direktori `htdocs` di XAMPP.
    - Buka browser dan akses `http://localhost/prak13`.
 ```
+
